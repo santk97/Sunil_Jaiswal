@@ -1,0 +1,476 @@
+@media (min-width: 992px) and (max-width: 1199px) {
+    
+.intro h2 {
+	font-size: 44px;
+}
+.intro h3 {
+	font-size: 36px;
+}     
+.testimonial-item p {
+	padding-left: 30px;
+	padding-top: 10px;
+	padding-right: 30px;
+}
+.testimonial-item {
+	width: 400px;
+}
+.slick-dots {
+	right: 20px;
+} 
+.intro p {
+	font-size: 20px;
+}    
+.social2 {
+	bottom: 10px;
+	left: 42px;
+}
+.social4 {
+	bottom: 10px;
+	right: 42px;
+}
+.social1 {
+	bottom: 60px;
+	left: -10px;
+}
+.social5 {
+	bottom: 60px;
+	right: -10px;
+}
+.curved img {
+	margin-top: -100px;
+}
+.circle {
+	margin-top: 80px;
+}
+.circle2 {
+	margin-top: 80px;
+	margin-left: -60px;
+}
+.line {
+	margin-left: 64px;
+}
+.line::after {
+	height: 790px;
+}
+.line::before {
+	top: 113px;
+	left: -53px;
+	width: 107px;
+}
+.one {
+	top: 98px;
+}
+.line2::before {
+	top: 142px;
+	left: -70px;
+	width: 106px;
+} 
+.two {
+	top: 127px;
+	left: -33px;
+} 
+.line3::before {
+	top: 184px;
+	left: -71px;
+	width: 107px;
+} 
+.three {
+	top: 169px;
+	left: -32px;
+} 
+.dot2 {
+	top: 6px;
+	left: -22px;
+}
+.dot3 {
+	top: 40px;
+	left: -22px;
+} 
+.dot4 {
+	top: 313px;
+	left: -22px;
+} 
+.cl {
+    margin-top: 75px;
+}
+.experience-details p {
+	padding-right: 10px;
+} 
+.qualific-details p {
+	padding-left: 10px;
+}    
+    
+}
+
+
+@media (min-width: 768px) and (max-width: 991px) {
+.navbar-nav > li > a {
+	font-size: 14px;
+	padding-right: 20px;
+	padding-left: 0;
+}
+.navbar-nav > li > a::after {
+	left: 0;
+}    
+.social1 {
+	bottom: 60px;
+	left: 27%;
+}
+.social5 {
+	bottom: 60px;
+	right: 27%;
+}
+.social2 {
+	bottom: 10px;
+	left: 35%;
+}
+.social4 {
+	bottom: 10px;
+	right: 35%;
+}
+.dot {
+	left: 49.4%;
+}
+.curved img {
+	margin-top: -130px;
+	margin-left: 125px;
+	padding-bottom: 30px;
+}
+#service::after {
+	display: none;
+}
+.qualific-details {
+	width: 450px;
+}    
+.circle {
+	margin-top: -160px;
+	float: right;
+} 
+.line, .line2, .line3 {
+	display: none;
+}
+.experience-details {
+	width: 450px;
+	float: right;
+	margin-bottom: 0;
+	margin-top: -150px;
+}
+.experience-details h2 {
+	padding-top: 8px;
+} 
+.experience-details p {
+	padding-bottom: 15px;
+} 
+.experiences1 {
+	position: relative;
+	margin-top: 85px;
+}
+.circle2 {
+	margin-left: 0;
+} 
+.filter-category a {
+	padding-right: 20px;
+}
+.port-image {
+	margin: auto;
+} 
+.testimonial-item {
+	margin-left: 60px;
+}
+.slick-dots {
+	right: 60px;
+}    
+    
+}
+
+@media (width: 767px) {
+ .experiences {
+    padding-top: 50px;
+}    
+.service-name {
+	width: 50%;
+	margin: 0 auto;
+    padding-bottom: 20px;
+} 
+.qualification1 {
+	width: 50%;
+	margin: 0 auto;
+	padding-bottom: 30px;
+}
+.experiences1 {
+	padding-bottom: 30px;
+	width: 50%;
+	margin: 0 auto;
+}       
+}
+@media (max-width: 767px) {
+    
+.navbar-brand.fixed-theme {
+	margin-top: -5px;
+    margin-left: 10px
+}
+.navbar-toggle {
+	margin-right: 25px;
+	margin-bottom: 18px;
+}
+.fixed-theme .navbar-brand img {
+	width: 54px;
+}
+.navbar-brand > img {
+	padding-top: 0;
+}
+.navbar-fixed-bottom .navbar-collapse, .navbar-fixed-top .navbar-collapse {
+	background: #444444;
+	margin-top: 20px;
+}
+.navbar-nav > li > a {
+	padding-top: 18px;
+    text-align: center;
+    color: #fff;
+}
+.navbar-nav > li > a::after {
+	left: 46%;
+}    
+.navbar-nav {
+	padding-bottom: 15px;
+} 
+.social1 {
+	left: 28%;
+}
+.social2 {
+	bottom: 12px;
+	left: 36%;
+} 
+.social5 {
+	right: 28%;
+}
+.curved img {
+	margin-top: -135px;
+	margin-left: 130px;
+}    
+#service::after {
+	display: none;
+}  
+.line {
+	display: none;
+} 
+.line2 {
+	display: none;
+} 
+.dot3 {
+	display: none;
+}
+.line3 {
+	display: none;
+}    
+.circle {
+	margin: auto;
+    margin-top: 20px
+}
+.circle2 {
+	margin: auto;
+} 
+.filter-category a {
+	margin-left: -10px;
+}
+.testimonial-item {
+	margin: auto;
+} 
+.slick-dots {
+	right: 50px;
+}
+.video-bg {
+	margin-bottom: 50px;
+}
+.tahsan3 {
+	margin-bottom: 50px;
+} 
+    
+}
+
+@media (width: 480px) {
+.social1 {
+	left: 15%;
+}
+.social2 {
+	left: 28%;
+}
+.social4 {
+	right: 28%;
+}
+.social5 {
+	right: 15%;
+}
+.dot {
+	left: 49%;
+}
+.curved img {
+	margin-left: 0px;
+}
+.filter-category {
+	margin-left: 20px;
+}
+.filter-category a {
+	line-height: 50px;
+}
+.port1 img { 
+	margin-left: 110px;
+}
+.service-name {
+	padding-bottom: 30px;
+}
+.qualification-heading h2 {
+	font-size: 30px;
+} 
+.qualification1 {
+	padding-bottom: 20px;
+}
+.experiences {
+	padding-top: 30px;
+}
+.experiences1 {
+	padding-bottom: 30px;
+}    
+.testimonial-item {
+	width: 400px;
+}
+.slick-dots {
+	right: 10px;
+}
+.testimonial-item p {
+	padding-left: 30px;
+	padding-top: 8px;
+	padding-right: 25px;
+}
+.price-item {
+	width: 390px;
+	margin: auto;
+}
+.dot5 {
+	left: 49%;
+}    
+    
+} 
+
+@media(min-width:320px){
+    .social2 {
+	bottom: 6px;
+	left: 65px;
+}
+}
+@media (max-width: 767px)
+.social4 {
+    bottom: 12px;
+    right: 19%;
+}
+@media (max-width:767px){
+    .about-details {
+    padding-top: 128px;
+}   
+}
+
+@media(max-width:425px){
+    .testimonial-item {
+	width: 295px;
+}
+
+}
+
+
+
+
+
+
+@media (width: 320px) {
+#index2 .intro p {
+	font-size: 18px;
+}    
+.intro h3 {
+	font-size: 36px;
+}    
+.intro h2 {
+	font-size: 40px;
+} 
+.social1 {
+	bottom: 50px;
+	left: 0;
+}    
+.social-mid {
+	bottom: -8px;
+}
+.social4 {
+	bottom: 15px;
+	right: 55px;
+}
+.social5 {
+	bottom: 50px;
+    right: 0;
+}
+.curved img {
+	margin-top: -73px;
+    margin-left: 0;
+}    
+.about-details {
+    padding-top: 50px;
+}    
+.dot {
+	left: 48.6%;
+}
+.about-button a {
+	padding: 10px 20px;
+}
+.qualification-heading h2::after {
+	width: 250px;
+}
+.qualific-details h2 {
+	font-size: 18px;
+}    
+.qualific-details h3 {
+	font-size: 15px;
+}
+.experience-details h3 {
+	font-size: 15px;
+}    
+.filter-category {
+	margin-left: 30px;
+	line-height: 50px;
+}
+.port1 img {
+	margin-left: 30px;
+}
+.experiences {
+	padding-top: 30px;
+}
+/*.testimonial-item {
+	width: 260px;
+}*/
+.slick-dots {
+	transform: rotate(90deg);
+    right: 50%;
+    top: 80%;
+}
+.testimonial-item p {
+	padding-left: 30px;
+	padding-top: 8px;
+	padding-right: 25px;
+}
+.price-item {
+	width: 300px;
+	margin: auto;
+}    
+.price-category {
+	width: 230px;
+}
+.sign-up {
+    width: 230px;
+} 
+.footer-heading h2 {
+	font-size: 36px;
+} 
+.dot5 {
+	left: 48.5%;
+}
+.footer-btm p {
+	font-size: 15px;
+}      
+}
